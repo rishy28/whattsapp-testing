@@ -1,0 +1,23 @@
+<suit>
+<test>
+<classes>
+<class>
+<groups>
+<run>
+<include name=" "></include>
+<exclude name=""></exclude>
+</run>
+
+
+#parameterazation will fetch input from XML file to program
+need test id
+
+Test suite ID-1234    *<parameter name="name" value= "duck></parameter>*
+Test ID-12
+Test ID-
+Test ID
+Test ID
+
+<suit name="test suite" verbose="2" parallel="methods"> thread-count="2">
+
+
