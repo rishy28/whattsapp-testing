@@ -20,4 +20,5 @@ Test ID
 
 <suit name="test suite" verbose="2" parallel="methods"> thread-count="2">
 hiding last seen
-
+adding the video call feature 
+adding the audio call feature
